@@ -1,0 +1,691 @@
+          85
+   10000.000000000000       WaveNumber (cm^-1)
+ 0.24796E-04 0.47684E-04 0.91553E-04 0.18883E-03 0.33188E-03 0.51498E-03 0.86594E-03 0.16212E-02 0.27771E-02 0.42343E-02
+ 0.67520E-02 0.11391E-01 0.20493E-01 0.39619E-01 0.64335E-01 0.87165E-01 0.11955E+00 0.16575E+00 0.23193E+00 0.32757E+00
+ 0.46707E+00 0.67491E+00 0.90143E+00 0.11235E+01 0.14597E+01 0.20497E+01 0.24355E+01 0.24378E+01 0.24411E+01 0.24456E+01
+ 0.24516E+01 0.24606E+01 0.24728E+01 0.24898E+01 0.21927E+01 0.17482E+01 0.14865E+01 0.13373E+01 0.12580E+01 0.12232E+01
+ 0.10559E+01 0.83509E+00 0.72284E+00 0.68052E+00 0.68529E+00 0.72414E+00 0.79019E+00 0.88041E+00 0.99442E+00 0.11336E+01
+ 0.11982E+01 0.11731E+01 0.10825E+01 0.93786E+00 0.81286E+00 0.70452E+00 0.61063E+00 0.52927E+00 0.45881E+00 0.39771E+00
+ 0.32179E+00 0.24180E+00 0.18170E+00 0.13652E+00 0.10261E+00 0.77114E-01 0.57950E-01 0.43548E-01 0.32726E-01 0.24592E-01
+ 0.16184E-01 0.91396E-02 0.51614E-02 0.29146E-02 0.16461E-02 0.92958E-03 0.52493E-03 0.29645E-03 0.16741E-03 0.94537E-04
+ 0.53389E-04 0.30150E-04 0.17026E-04 0.96149E-05 0.54299E-05
+           1   32.0000000       34.0000000    
+           4
+   0.00000000       1.00000000       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           2   34.0000000       36.0000000    
+           4
+   0.00000000       1.00000000       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           3   36.0000000       38.0000000    
+           4
+  0.143879995      0.856119990       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           4   38.0000000       40.0000000    
+           4
+  0.375000000      0.625000000       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           5   40.0000000       41.0000000    
+           4
+  0.589659989      0.410340011       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           6   41.0000000       42.0000000    
+           4
+  0.736100018      0.263900012       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           7   42.0000000       43.0000000    
+           4
+  0.845099986      0.154640004       0.00000000       2.69999990E-04
+  SUM Weights =    1.00001001    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           8   43.0000000       44.0000000    
+           4
+  0.913900018       8.58799964E-02   0.00000000       2.20000002E-04
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+           9   44.0000000       44.5000000    
+           4
+  0.943989992       5.53399995E-02   0.00000000       6.69999979E-04
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          10   44.5000000       45.0000000    
+           4
+  0.958649993       4.03099991E-02   0.00000000       1.04000000E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          11   45.0000000       45.5000000    
+           4
+  0.969169974       2.91499998E-02   0.00000000       1.67999999E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          12   45.5000000       46.0000000    
+           4
+  0.976119995       2.10500006E-02   0.00000000       2.82999990E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          13   46.0000000       46.5000000    
+           4
+  0.980180025       1.51399998E-02   0.00000000       4.67999978E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          14   46.5000000       47.0000000    
+           4
+  0.981389999       1.08700003E-02   0.00000000       7.73999980E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          15   47.0000000       47.2000008    
+           4
+  0.980620027       8.67999997E-03   0.00000000       1.07000005E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          16   47.2000008       47.4000015    
+           4
+  0.979390025       7.56999990E-03   0.00000000       1.30300000E-02
+  SUM Weights =   0.999990046    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          17   47.4000015       47.5999985    
+           4
+  0.977490008       6.61000004E-03   0.00000000       1.59000009E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          18   47.5999985       47.7999992    
+           4
+  0.974849999       5.77999977E-03   9.99999975E-06   1.93600003E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          19   47.7999992       48.0000000    
+           4
+  0.971379995       5.03000012E-03   9.99999975E-06   2.35699993E-02
+  SUM Weights =   0.999989986    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          20   48.0000000       48.2000008    
+           4
+  0.966870010       4.38999990E-03   9.00000014E-05   2.86500007E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          21   48.2000008       48.4000015    
+           4
+  0.960829973       3.80999991E-03   5.79999993E-04   3.47700007E-02
+  SUM Weights =   0.999989986    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          22   48.4000015       48.5999985    
+           4
+  0.951179981       3.31000006E-03   3.46000004E-03   4.20500003E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          23   48.5999985       48.7000008    
+           4
+  0.937409997       2.95000011E-03   1.16699999E-02   4.79700007E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          24   48.7000008       48.7999992    
+           4
+  0.917320013       2.70000007E-03   2.80900002E-02   5.18799983E-02
+  SUM Weights =   0.999989986    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          25   48.7999992       48.9000015    
+           4
+  0.876770020       2.40999996E-03   6.60300031E-02   5.47900014E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          26   48.9000015       49.0000000    
+           4
+  0.795629978       2.05000001E-03  0.147359997       5.49600013E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          27   49.0000000       50.0000000    
+           4
+  0.749800026       2.21999991E-03  0.193729997       5.42499982E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          28   50.0000000       51.0000000    
+           4
+  0.749130011       3.10000009E-03  0.193570003       5.42000011E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          29   51.0000000       52.0000000    
+           4
+  0.748210013       4.31999983E-03  0.193340003       5.41299991E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          30   52.0000000       53.0000000    
+           4
+  0.746940017       6.01000013E-03  0.193010002       5.40399998E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          31   53.0000000       54.0000000    
+           4
+  0.745169997       8.36999994E-03  0.192550004       5.39099984E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          32   54.0000000       55.0000000    
+           4
+  0.742709994       1.16400002E-02  0.191909999       5.37399985E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          33   55.0000000       56.0000000    
+           4
+  0.739300013       1.61799993E-02  0.191029996       5.34900017E-02
+  SUM Weights =   0.999999940    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          34   56.0000000       57.0000000    
+           4
+  0.734600008       2.24300008E-02  0.189820006       5.31499982E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          35   57.0000000       57.5000000    
+           4
+  0.738300025       2.88500004E-02  0.190770000       4.20800000E-02
+  SUM Weights =    1.00000012    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          36   57.5000000       58.0000000    
+           4
+  0.746749997       3.44699994E-02  0.192959994       2.58200001E-02
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          37   58.0000000       58.5000000    
+           4
+  0.749689996       4.08799984E-02  0.193719998       1.57200005E-02
+  SUM Weights =    1.00001001    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          38   58.5000000       59.0000000    
+           4
+  0.748769999       4.82299998E-02  0.193480000       9.51999985E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          39   59.0000000       59.5000000    
+           4
+  0.745039999       5.66999987E-02  0.192519993       5.75000001E-03
+  SUM Weights =    1.00000989    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          40   59.5000000       60.0000000    
+           4
+  0.739099979       6.64599985E-02  0.190980002       3.46000004E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          41   60.0000000       60.5000000    
+           4
+  0.761829972       8.09200034E-02  0.155090004       2.15999992E-03
+  SUM Weights =   0.999999940    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          42   60.5000000       61.0000000    
+           4
+  0.799560010      0.100330003       9.87299979E-02   1.38000003E-03
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          43   61.0000000       61.5000000    
+           4
+  0.816879988      0.121090002       6.11799993E-02   8.50000011E-04
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          44   61.5000000       62.0000000    
+           4
+  0.818889976      0.143399999       3.72000001E-02   5.20000001E-04
+  SUM Weights =    1.00001001    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          45   62.0000000       62.5000000    
+           4
+  0.809840024      0.167530000       2.23099999E-02   3.10000003E-04
+  SUM Weights =   0.999990046    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          46   62.5000000       63.0000000    
+           4
+  0.792810023      0.193749994       1.32499998E-02   1.80000003E-04
+  SUM Weights =   0.999989986    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          47   63.0000000       63.5000000    
+           4
+  0.769829988      0.222259998       7.79999979E-03   1.10000001E-04
+  SUM Weights =   0.999999940    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          48   63.5000000       64.0000000    
+           4
+  0.742219985      0.253149986       4.55999980E-03   5.99999985E-05
+  SUM Weights =   0.999989986    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          49   64.0000000       64.5000000    
+           4
+  0.710879982      0.286430001       2.64999992E-03   3.99999990E-05
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          50   64.5000000       65.0000000    
+           4
+  0.676450014      0.321999997       1.53000001E-03   1.99999995E-05
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          51   65.0000000       65.5000000    
+           4
+  0.642690003      0.356350005       9.50000016E-04   9.99999975E-06
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          52   65.5000000       66.0000000    
+           4
+  0.609470010      0.389889985       6.30000024E-04   9.99999975E-06
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          53   66.0000000       66.5000000    
+           4
+  0.592270017      0.407299995       4.29999985E-04   9.99999975E-06
+  SUM Weights =    1.00001001    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          54   66.5000000       67.0000000    
+           4
+  0.592360020      0.407330006       3.00000014E-04   0.00000000    
+  SUM Weights =   0.999990046    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          55   67.0000000       67.5000000    
+           4
+  0.592379987      0.407400012       2.09999998E-04   0.00000000    
+  SUM Weights =   0.999989986    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          56   67.5000000       68.0000000    
+           4
+  0.592440009      0.407409996       1.50000007E-04   0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          57   68.0000000       68.5000000    
+           4
+  0.592459977      0.407440007       9.99999975E-05   0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          58   68.5000000       69.0000000    
+           4
+  0.592490017      0.407440007       7.00000019E-05   0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          59   69.0000000       69.5000000    
+           4
+  0.592480004      0.407460004       4.99999987E-05   0.00000000    
+  SUM Weights =   0.999990046    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          60   69.5000000       70.0000000    
+           4
+  0.592490017      0.407469988       3.99999990E-05   0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          61   70.0000000       71.0000000    
+           4
+  0.592499971      0.407480001       1.99999995E-05   0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          62   71.0000000       72.0000000    
+           4
+  0.592519999      0.407469988       9.99999975E-06   0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          63   72.0000000       73.0000000    
+           4
+  0.592519999      0.407480001       9.99999975E-06   0.00000000    
+  SUM Weights =    1.00001001    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          64   73.0000000       74.0000000    
+           4
+  0.592559993      0.407440007       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          65   74.0000000       75.0000000    
+           4
+  0.592530012      0.407469988       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          66   75.0000000       76.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          67   76.0000000       77.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          68   77.0000000       78.0000000    
+           4
+  0.592509985      0.407489985       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          69   78.0000000       79.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          70   79.0000000       80.0000000    
+           4
+  0.592530012      0.407469988       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          71   80.0000000       82.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          72   82.0000000       84.0000000    
+           4
+  0.592530012      0.407469988       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          73   84.0000000       86.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          74   86.0000000       88.0000000    
+           4
+  0.592530012      0.407469988       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          75   88.0000000       90.0000000    
+           4
+  0.592530012      0.407469988       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          76   90.0000000       92.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          77   92.0000000       94.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          78   94.0000000       96.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          79   96.0000000       98.0000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          80   98.0000000       100.000000    
+           4
+  0.592499971      0.407499999       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          81   100.000000       102.000000    
+           4
+  0.592509985      0.407489985       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          82   102.000000       104.000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          83   104.000000       106.000000    
+           4
+  0.592530012      0.407469988       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          84   106.000000       108.000000    
+           4
+  0.592540026      0.407460004       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               
+          85   108.000000       110.000000    
+           4
+  0.592519999      0.407480001       0.00000000       0.00000000    
+  SUM Weights =    1.00000000    
+.\CLOUD\MODA1.Cor                                                               
+.\CLOUD\MODA2.Cor                                                               
+.\CLOUD\MODA3.Cor                                                               
+.\CLOUD\MODA4.Cor                                                               

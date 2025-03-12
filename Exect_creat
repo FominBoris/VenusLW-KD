@@ -1,0 +1,1 @@
+gfortran zzz.f90 mod.f90 ban.f90 mcf.f90 -o bbb
