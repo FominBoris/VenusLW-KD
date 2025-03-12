@@ -21,9 +21,9 @@ COMMON/KD/PL(150)
 !        H2O
       	A1=0.
       IF(NCH == 1)THEN
-VOL1=ChA_1_H2O(P_LN(J))*H2O1
+VOL1=ChA_1_H2O(P_LN(J))*H2O1  ! ChA_1_H2O -- calculate effective cross-section for given level; effective cross-sections x ro
 VOL2=ChA_1_H2O(P_LN(J+1))*H2O2
-RABMA(J+1)=VOL2
+RABMA(J+1)=VOL2 ! RABMA - array of Volume absoprtion coefficients for each level
  END IF
 
 ! * ------------------------------------------------------------------- *
@@ -32,7 +32,7 @@ RABMA(1)=VOL1
 !* * * * * * * * * * * * * * * *
        END
 
-         FUNCTION ChA_1_H2O(P8) ! ln(P) [mbar] RO [mol/(cm^2*km].
+         FUNCTION ChA_1_H2O(P8) ! ln(P) [mbar] RO [mol/(cm^2*km]. ! effective cross-section for 1KD inside interval (from pressure)
 !*** CROSS SECTIONS ***!
  USE INITIALforKD                          !   (0,1,...,NP) P&T - interpolation.
          PARAMETER (NPD=120) ! Number of points in internal P-grid (LOG-scale).

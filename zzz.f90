@@ -220,6 +220,7 @@ DO N=1,NBD
 BA=BANDS(N)
 WRITE(*,*)NBD,N,BA
 
+! intervals a, b, c, d, ...
 ! ------------------------------ a 10-200 -------------------------------------------------- !
   IF(BA=='a') THEN !  10-200  cm-1
 FLUXUP=0.D0 ; FLUXDO=0.D0 ; FLUXUP_=0.D0  ; FLUXDO_=0.D0 
@@ -237,14 +238,16 @@ END DO
 ! ------------------------------ b  200-400 -------------------------------------------------- !
   IF(BA=='b') THEN ! 200-400  cm-1
 FLUXUP=0.D0 ; FLUXDO=0.D0 ; FLUXUP_=0.D0  ; FLUXDO_=0.D0 
-WN4=300. 
+WN4=300. ! set optical properties at this value
 DO NCH=1,2
          FLUXUP=0.D0 ; FLUXDO=0.D0 ; FLUXUP_=0.D0  ; FLUXDO_=0.D0 
-IF(NCH==1)  CALL BAND_B_1(NCH) 
+! there are two k-terms here:
+IF(NCH==1)  CALL BAND_B_1(NCH) ! input: effective cross-section and profile of CO2 and yields absorption coeffcients in km-1
 IF(NCH==2)  CALL BAND_B_2(NCH) 
-CALL FLUX_AB_SCAT(FLUXUP,FLUXDO,FLUXUP_,FLUXDO_,NGAME,JMAX) 
+CALL FLUX_AB_SCAT(FLUXUP,FLUXDO,FLUXUP_,FLUXDO_,NGAME,JMAX) ! radiative transfer solution
+! Flux is split into two terms: flux from unscattered photons (clear sky) and scattering part (Monte-Carlo term)
 FLUXUP=FLUXUP+FLUXUP_ ; FLUXDO=FLUXDO+FLUXDO_
-           FUP=FUP+FLUXUP ; FDO=FDO+FLUXDO 
+           FUP=FUP+FLUXUP ; FDO=FDO+FLUXDO ! sum of fluxes for all k-terms
 END DO   
   END IF
 

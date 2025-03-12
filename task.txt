@@ -1,0 +1,2 @@
+Поиграться расчетами на другим атмосферах
+Plot: smoothing procedures a.1_: ln(P) - OY, ecs - OX
